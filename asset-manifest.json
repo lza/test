@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lza/lza.github.io/static/css/main.77fa4355.chunk.css",
+    "main.js": "/lza/lza.github.io/static/js/main.b57415e7.chunk.js",
+    "main.js.map": "/lza/lza.github.io/static/js/main.b57415e7.chunk.js.map",
+    "runtime-main.js": "/lza/lza.github.io/static/js/runtime-main.5d22784a.js",
+    "runtime-main.js.map": "/lza/lza.github.io/static/js/runtime-main.5d22784a.js.map",
+    "static/js/2.80f6a57b.chunk.js": "/lza/lza.github.io/static/js/2.80f6a57b.chunk.js",
+    "static/js/2.80f6a57b.chunk.js.map": "/lza/lza.github.io/static/js/2.80f6a57b.chunk.js.map",
+    "index.html": "/lza/lza.github.io/index.html",
+    "precache-manifest.7398599ec7108ff7b21a9642754818c4.js": "/lza/lza.github.io/precache-manifest.7398599ec7108ff7b21a9642754818c4.js",
+    "service-worker.js": "/lza/lza.github.io/service-worker.js",
+    "static/css/main.77fa4355.chunk.css.map": "/lza/lza.github.io/static/css/main.77fa4355.chunk.css.map",
+    "static/js/2.80f6a57b.chunk.js.LICENSE.txt": "/lza/lza.github.io/static/js/2.80f6a57b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d22784a.js",
+    "static/js/2.80f6a57b.chunk.js",
+    "static/css/main.77fa4355.chunk.css",
+    "static/js/main.b57415e7.chunk.js"
+  ]
+}
